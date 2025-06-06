@@ -2,7 +2,7 @@
 
 ## Description
 
-Describe the project and its functionality
+An image sharing platform with limited functionality. Users can upload new image posts, edit their profile, and like others' posts. Webpage is responsive for varying screen sizes.
 
 ## Tech Stack
 
@@ -14,4 +14,4 @@ Describe the project and its functionality
 
 This webpage is deployed to GitHub Pages
 
-- Link
+- [Link](https://samhmason97.github.io/se_project_spots/index.html)
