@@ -1,10 +1,14 @@
 .footer {
   padding: 60px;
   text-align: center;
-  color: #212121b2;
+  color: #212121;
   opacity: 70%;
-  font-family: Poppins;
+  font-family: Poppins, arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 100%;
+}
+
+.footer__text {
+  margin: 0 auto;
 }
