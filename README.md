@@ -15,3 +15,7 @@ An image sharing platform with limited functionality. Users can upload new image
 This webpage is deployed to GitHub Pages
 
 - [Link](https://samhmason97.github.io/se_project_spots/index.html)
+
+Google Drive Link for Video Explanation
+
+- [Link] (https://drive.google.com/file/d/1KrbqFWSxZon7pTICtCega6v_m3LJY2kq/view?usp=sharing)
